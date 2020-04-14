@@ -1,0 +1,10 @@
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\bin\Debug\TPFinalTelethon.exe.config
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\bin\Debug\TPFinalTelethon.exe
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\bin\Debug\TPFinalTelethon.pdb
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.csprojAssemblyReference.cache
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.Form1.resources
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.FormTabPrincipal.resources
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.Properties.Resources.resources
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.csproj.GenerateResource.cache
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.exe
+C:\Users\girou\Dropbox\Collège Rosemont\Automne 2019\C#\Travaux et Exams\TPFinalTelethon\TPFinalTelethon\obj\Debug\TPFinalTelethon.pdb

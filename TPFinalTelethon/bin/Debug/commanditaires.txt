@@ -1,0 +1,2 @@
+Homme,Riche,1
+Femme,Riche,2
